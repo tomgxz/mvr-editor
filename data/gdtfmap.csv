@@ -1,0 +1,44 @@
+layer,file,mode,channels,name
+
+Elation DTW Blinder 700 IP M1,Elation@DTW_BLINDER_700_IP@2023-08-03_First_Release,01CH,1,Elation DTW Blinder 700 IP
+Elation DTW Blinder 700 IP M2,Elation@DTW_BLINDER_700_IP@2023-08-03_First_Release,2CH,1,Elation DTW Blinder 700 IP
+Elation DTW Blinder 700 IP M3,Elation@DTW_BLINDER_700_IP@2023-08-03_First_Release,4Cell,1,Elation DTW Blinder 700 IP
+Elation DTW Blinder 700 IP M4,Elation@DTW_BLINDER_700_IP@2023-08-03_First_Release,Standard,1,Elation DTW Blinder 700 IP
+Elation DTW Blinder 700 IP M5,Elation@DTW_BLINDER_700_IP@2023-08-03_First_Release,Extended,1,Elation DTW Blinder 700 IP
+Elation DTW Blinder 700 IP M6,Elation@DTW_BLINDER_700_IP@2023-08-03_First_Release,4WA,1,Elation DTW Blinder 700 IP
+Elation DTW Blinder 700 IP M7,Elation@DTW_BLINDER_700_IP@2023-08-03_First_Release,Basic,1,Elation DTW Blinder 700 IP
+
+GLP Impression X4 Bar 20 M1,GLP@impression_X4_Bar_20@Final._Based_of_X4_Bar_10,Norm,33,GLP Impression X4 Bar 20
+GLP Impression X4 Bar 20 M2,GLP@impression_X4_Bar_20@Final._Based_of_X4_Bar_10,Comp,19,GLP Impression X4 Bar 20
+GLP Impression X4 Bar 20 M3,GLP@impression_X4_Bar_20@Final._Based_of_X4_Bar_10,High Resolution,34,GLP Impression X4 Bar 20
+GLP Impression X4 Bar 20 M4,GLP@impression_X4_Bar_20@Final._Based_of_X4_Bar_10,Single Pixel Mode,88,GLP Impression X4 Bar 20
+GLP Impression X4 Bar 20 M5,GLP@impression_X4_Bar_20@Final._Based_of_X4_Bar_10,Single Pixel High Resolution,89,GLP Impression X4 Bar 20
+GLP Impression X4 Bar 20 M6,GLP@impression_X4_Bar_20@Final._Based_of_X4_Bar_10,Dual Pixel Mode,48,GLP Impression X4 Bar 20
+GLP Impression X4 Bar 20 M7,GLP@impression_X4_Bar_20@Final._Based_of_X4_Bar_10,Dual Pixel High Resolution,49,GLP Impression X4 Bar 20
+
+GLP JDC1 M1,GLP@JDC-1@FINISHED,SPIX,68,GLP JDC1
+
+Martin MAC Viper Performance M1,Martin_Professional@MAC_Viper_Performance@20230516NoMeas,Basic,32,Martin MAC Viper Performance
+Martin MAC Viper Performance M2,Martin_Professional@MAC_Viper_Performance@20230516NoMeas,Extended,40,Martin MAC Viper Performance
+
+Robe Robin LEDBeam 150 M1,Robe_Lighting@Robin_LEDBeam_150_FW_RGBW@2023-07-04__3D_models_revision,Mode 1 - Standard 16 - bit,22,Robe Robin LEDBeam
+Robe Robin LEDBeam 150 M2,Robe_Lighting@Robin_LEDBeam_150_FW_RGBW@2023-07-04__3D_models_revision,Mode 2 - Reduced 8 - bit,16,Robe Robin LEDBeam
+
+Robe Robin MegaPointe M1,Robe_Lighting@Robin_MegaPointe@2023-06-14__3D_models_revision,Mode 1 - Standard 16-bit,39,Robe Robin MegaPointe
+Robe Robin MegaPointe M1,Robe_Lighting@Robin_MegaPointe@2023-06-14__3D_models_revision,Mode 2 - Reduced 8-bit,34,Robe Robin MegaPointe
+
+Robe Robin Painte M1,Robe_Lighting@Robin_Painte@2023-07-18__Beam_output_revision,Mode 1 - Standard 16 bit,44,Robe Robin Painte
+Robe Robin Painte M1,Robe_Lighting@Robin_Painte@2023-07-18__Beam_output_revision,Mode 2 - enhanced gobo control,45,Robe Robin Painte
+
+Robe Robin Spiider M1,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 1 - Zones,49,Robe Robin Spiider
+Robe Robin Spiider M2,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 2 - Basic,27,Robe Robin Spiider
+Robe Robin Spiider M3,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 3 - Advanced,33,Robe Robin Spiider
+Robe Robin Spiider M4,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 4 - Full RGBW,90,Robe Robin Spiider
+Robe Robin Spiider M5,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 5 - Wash,27,Robe Robin Spiider
+Robe Robin Spiider M6,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 6 - Pattern,47,Robe Robin Spiider
+Robe Robin Spiider M7,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 7 - Pixel RGB,91,Robe Robin Spiider
+Robe Robin Spiider M8,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 8 - Pixel RGBW,110,Robe Robin Spiider
+Robe Robin Spiider M9,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 9 - Pattern full RGB,104,Robe Robin Spiider
+Robe Robin Spiider M10,Robe_Lighting@Robin_Spiider@2023-07-21__Pattern_rotation_channel_set_fix,Mode 10 - Pattern full RGBW,123,Robe Robin Spiider
+
+
