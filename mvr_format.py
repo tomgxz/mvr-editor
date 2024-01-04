@@ -1,20 +1,12 @@
 from xml.dom import minidom,Node
 import zipfile, os, shutil, glob
 
-from settings import PARENTDIR,NAME
+from data.settings import MVR_BASE_DIR,MVR_NAME,BASE_DIR,CONVERT_FROM_ZIP,CONVERT_TO_ZIP
 from fixturemap import getFixtureFromLayer
 from utils.fixtures import layers as getLayerNames
 
 def getChildNodes(node,selector): return list(filter(lambda x: x.nodeType == Node.ELEMENT_NODE and x.tagName == selector, node.childNodes))
 def getChildNode(node,selector): return getChildNodes(node,selector)[0]
-
-CONVERT_FROM_ZIP = True
-CONVERT_TO_ZIP = True
-
-MVR_BASE_DIR = f".\\mvr_files"
-MVR_NAME = f"rufusdusol"
-
-BASE_DIR = f"{MVR_BASE_DIR}\\tmp"
 
 layerNames = getLayerNames()
 used_gdtf_files = []
