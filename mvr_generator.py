@@ -3,9 +3,9 @@ from xml.dom import minidom
 
 import os
 
-from settings import PARENTDIR,NAME
+from data.settings import MVR_NAME
 
-BASE_DIR = f".\\{NAME}_mvr"
+BASE_DIR = f".\\{MVR_NAME}_mvr"
 
 
 
@@ -100,4 +100,4 @@ sceneRoot.appendChild(auxData)
 content = root.toprettyxml(indent="  ")
 
 # Save the MVR GeneralScceneDescription.xml file
-with open(f"{BASE_DIR}\\{NAME} Fixtures.xml","w") as file: file.write(content)
+with open(f"{BASE_DIR}\\{MVR_NAME} Fixtures.xml","w") as file: file.write(content)
